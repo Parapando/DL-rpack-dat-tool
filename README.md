@@ -1,2 +1,4 @@
 # Parapando-s-DL-rpack-method
-A way to edit Dying Light's .rpack files/textures
+There's a way to edit Dying Light's .rpack files/textures
+
+(FOR NOW i'm too lazy to write it down, dm me in discord if u need more info: Parapando)
